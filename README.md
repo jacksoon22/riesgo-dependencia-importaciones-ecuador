@@ -33,6 +33,18 @@
 
 ---
 
+## Vista del dashboard
+
+<p align="center">
+  <img src="docs/dashboard-panorama.png" alt="Panorama y diagnóstico: KPIs, matriz de riesgo, barra de exposición y tabla" width="100%">
+</p>
+
+<p align="center">
+  <img src="docs/dashboard-accion.png" alt="Acción: composición por país, evolución mensual y recomendación" width="100%">
+</p>
+
+---
+
 ## Contenido del repositorio
 
 ```
@@ -248,10 +260,3 @@ decisión de un solo proveedor. Cualquier plan de diversificación debería empe
   <a href="mailto:jacksonyangua2001@gmail.com">jacksonyangua2001@gmail.com</a> ·
   <a href="https://datastudio.google.com/reporting/14ae0988-c823-4440-8576-881834f97b6c">Dashboard</a>
 </p>
-
-<!--
-Capturas del dashboard. Guarda las imágenes en docs/ y descomenta estas líneas.
-
-![Panorama y diagnóstico](docs/dashboard-panorama.png)
-![Acción](docs/dashboard-accion.png)
--->
