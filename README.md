@@ -36,11 +36,11 @@
 ## Vista del dashboard
 
 <p align="center">
-  <img src="docs/dashboard-panorama.png" alt="Panorama y diagnóstico: KPIs, matriz de riesgo, barra de exposición y tabla" width="100%">
+  <a href="docs/dashboard-panorama.png"><img src="docs/dashboard-panorama.png" alt="Panorama y diagnóstico: KPIs, matriz de riesgo, barra de exposición y tabla" width="100%"></a>
 </p>
 
 <p align="center">
-  <img src="docs/dashboard-accion.png" alt="Acción: composición por país, evolución mensual y recomendación" width="100%">
+  <a href="docs/dashboard-accion.png"><img src="docs/dashboard-accion.png" alt="Acción: composición por país, evolución mensual y recomendación" width="100%"></a>
 </p>
 
 ---
