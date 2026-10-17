@@ -243,7 +243,7 @@ decisión de un solo proveedor. Cualquier plan de diversificación debería empe
 
 <p align="center">
   <b>Jackson Jeampiere Yangua Buenaño</b><br>
-  Analista de datos junior · Ecuador<br><br>
+  Analista de datos · Ecuador<br><br>
   <a href="https://linkedin.com/in/jackson-yangua-buenaño-756829278">LinkedIn</a> ·
   <a href="mailto:jacksonyangua2001@gmail.com">jacksonyangua2001@gmail.com</a> ·
   <a href="https://datastudio.google.com/reporting/14ae0988-c823-4440-8576-881834f97b6c">Dashboard</a>
