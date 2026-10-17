@@ -1,11 +1,35 @@
-# Riesgo de dependencia de las importaciones del Ecuador
+<p align="center">
+  <img src="assets/logo.svg" width="88" alt="Logo del proyecto">
+</p>
 
-**¿Dónde es más vulnerable el suministro del país?**
-Análisis de 650.426 declaraciones de importación · enero–junio 2024 · fuente SENAE
+<h1 align="center">Riesgo de dependencia de las importaciones del Ecuador</h1>
 
+<p align="center">
+  <b>¿Dónde es más vulnerable el suministro del país?</b><br>
+  Análisis de 650.426 declaraciones de importación · enero–junio 2024 · fuente SENAE
+</p>
+
+<p align="center">
+  <a href="https://github.com/jacksoon22/riesgo-dependencia-importaciones-ecuador"><img alt="Estado" src="https://img.shields.io/badge/Estado-Completado-49A578?style=flat-square"></a>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-BigQuery-4285F4?style=flat-square">
+  <img alt="Visualización" src="https://img.shields.io/badge/Visualizaci%C3%B3n-Looker%20Studio-E8710A?style=flat-square">
+  <img alt="Registros" src="https://img.shields.io/badge/Registros-650.426-2C3A47?style=flat-square">
+  <img alt="Licencia de datos" src="https://img.shields.io/badge/Datos-CC%20BY-7C8998?style=flat-square">
+</p>
+
+---
+
+> Proyecto de análisis de datos **end-to-end** sobre las declaraciones aduaneras de importación
+> del Ecuador. Cubre desde la evaluación de calidad del dataset hasta un dashboard de dos páginas,
+> pasando por el diseño de un indicador de doble dependencia (concentración × materialidad).
+>
 > **Hallazgo principal:** solo **2 de las 97** categorías arancelarias (2,1%) concentran el
 > **29% del valor importado** — catorce veces su peso esperado. En ambas, un solo país proveedor
 > domina la oferta: **73% desde EE.UU.** (combustibles) y **48% desde China** (máquinas eléctricas).
+
+<p align="center">
+  <a href="https://datastudio.google.com/reporting/14ae0988-c823-4440-8576-881834f97b6c"><b>▸ Ver dashboard en Looker Studio</b></a>
+</p>
 
 ---
 
@@ -15,11 +39,10 @@ Análisis de 650.426 declaraciones de importación · enero–junio 2024 · fuen
 ├── README.md                          # este documento
 ├── sql/
 │   └── riesgo_importaciones.sql       # Consultas 1-6 (BigQuery Standard SQL)
+├── assets/
+│   └── logo.svg
 └── docs/                              # capturas del dashboard
 ```
-
-**Entregables:** [dashboard en Looker Studio](https://datastudio.google.com/reporting/14ae0988-c823-4440-8576-881834f97b6c) ·
-análisis completo en este README.
 
 ---
 
@@ -216,11 +239,15 @@ decisión de un solo proveedor. Cualquier plan de diversificación debería empe
 
 ---
 
-## 9. Stack y autor
+## 9. Autor
 
-- **SQL:** BigQuery (Standard SQL)
-- **Visualización:** Looker Studio — [ver dashboard](https://datastudio.google.com/reporting/14ae0988-c823-4440-8576-881834f97b6c)
-- **Autor:** Jackson Jeampiere Yangua Buenaño · [LinkedIn](https://linkedin.com/in/jackson-yangua-buenaño-756829278) · jacksonyangua2001@gmail.com
+<p align="center">
+  <b>Jackson Jeampiere Yangua Buenaño</b><br>
+  Analista de datos junior · Ecuador<br><br>
+  <a href="https://linkedin.com/in/jackson-yangua-buenaño-756829278">LinkedIn</a> ·
+  <a href="mailto:jacksonyangua2001@gmail.com">jacksonyangua2001@gmail.com</a> ·
+  <a href="https://datastudio.google.com/reporting/14ae0988-c823-4440-8576-881834f97b6c">Dashboard</a>
+</p>
 
 <!--
 Capturas del dashboard. Guarda las imágenes en docs/ y descomenta estas líneas.

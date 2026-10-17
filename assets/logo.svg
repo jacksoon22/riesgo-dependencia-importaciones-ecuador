@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="88" viewBox="0 0 88 88" role="img" aria-label="Riesgo de concentración">
+  <rect width="88" height="88" rx="18" fill="#2C3A47"/>
+  <line x1="16" y1="31" x2="72" y2="31" stroke="#E0554A" stroke-width="2" stroke-dasharray="5 4" opacity="0.9"/>
+  <rect x="20" y="52" width="10" height="18" rx="2" fill="#E7ECF2" opacity="0.45"/>
+  <rect x="39" y="40" width="10" height="30" rx="2" fill="#EE9B3F"/>
+  <rect x="58" y="22" width="10" height="48" rx="2" fill="#E0554A"/>
+</svg>
